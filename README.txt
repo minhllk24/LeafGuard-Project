@@ -2,8 +2,8 @@
 TestImages: Images for testing model
 AppShowcase.mp4: Show how the app work
 LeafGuard.py: Create the UI for the app and run programn
-Part1_LeafGuard_Preprocessing_Transfer-learning.ipynb: Tranfer learning code, show how to train and create a model for predicting
-Part2_LeafGuard_Predict-Test-Evaluate Model.ipynb: For Predicting and testing model
+Part1_LeafGuard_Preprocessing_Transfer-learning.ipynb: Transfer learning code, demonstrate how to train, and develop a predictive model
+Part2_LeafGuard_Predict-Test-Evaluate Model.ipynb: For Model Testing and Prediction
 model_plants_disease.h: The pre-trained that use for predicting
 and other images files for the UI of the app
 
