@@ -1,4 +1,4 @@
-******What does each files do?
+****** What does each files do? ******
 TestImages: Images for testing model
 AppShowcase.mp4: Show how the app work
 LeafGuard.py: Create the UI for the app and run programn
