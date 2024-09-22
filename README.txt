@@ -1,3 +1,12 @@
+******What does each files do?
+TestImages: Images for testing model
+AppShowcase.mp4: Show how the app work
+LeafGuard.py: Create the UI for the app and run programn
+Part1_LeafGuard_Preprocessing_Transfer-learning.ipynb: Tranfer learning code, show how to train and create a model for predicting
+Part2_LeafGuard_Predict-Test-Evaluate Model.ipynb: For Predicting and testing model
+model_plants_disease.h: The pre-trained that use for predicting
+and other images files for the UI of the app
+
 ****** Instructions on how to install and run the software. *******
 Firstly, download the LeafGuard-Project-main.zip file on Github: https://github.com/minhllk24/LeafGuard-Project
 
@@ -8,7 +17,6 @@ Fourthly, type in command:
 	pip install Pillow numpy tensorflow keras_preprocessing opencv-python matplotlib
 
 Finally, after the previous code has completed, open the “LeafGuard.py” and press F5 to launch the app. 
-
 
 ******   HOW TO RUN THE "LEAF NAME AND DISEASE IDENTYFYING APP"    ******
 
