@@ -1,3 +1,15 @@
+****** Instructions on how to install and run the software. *******
+Firstly, download the LeafGuard-Project-main.zip file on Github: https://github.com/minhllk24/LeafGuard-Project
+
+Secondly, extract the zip file to the location of your choice, the folder “AppCodesAndImages will appear there
+Thirdly, open “AppCodesAndImages” folder, right click and choose Open in Terminal
+Fourthly, type in command: 
+
+	pip install Pillow numpy tensorflow keras_preprocessing opencv-python matplotlib
+
+Finally, after the previous code has completed, open the “LeafGuard.py” and press F5 to launch the app. 
+
+
 ******   HOW TO RUN THE "LEAF NAME AND DISEASE IDENTYFYING APP"    ******
 
 Step 1: Open the python file "LeafGuard.py" first, then press F5 or choose Start Debugging manually
